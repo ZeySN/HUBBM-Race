@@ -1,0 +1,10 @@
+
+where this implementation should be compiled at:
+src/
+
+to compile this implementation:
+javac *.java
+
+to run this implementation:
+java Assignment4
+

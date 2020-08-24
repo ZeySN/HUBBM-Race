@@ -1,4 +1,5 @@
-Hubbm-race is based on the JavaFX.
+
+HUBBM-Race is game that users can play with arrow keys. Whenever user's car overtakes the rival's car, user's score increases and colour of the rival's car changes. Game ends if collision has occured.
 
 where this implementation should be compiled at:
 src/
